@@ -1,10 +1,10 @@
-### Hi there🧑🏻‍💻, I'm [Manojkumar S][portfolio] 👋
+### Hi there🧑🏻‍💻, I'm Mahesh 👋
 <hr />
 
 
-- 🌱 I’m an engineering undergraduate who holds some technical knowledge with some perseverance to improve towards my interests and in updating myself towards forthcoming technologies.
-- 📟 I enjoy making websites that are appealing to the users eye as well as meeting their needs. 
-- ⚙️ I hold my strengths towards full stack development and designing UI/UX 
+- 🌱 
+- 📟
+- ⚙️
 
 
 
@@ -13,13 +13,13 @@
 
 ### Social Media :
 <hr/>
-<a target="_blank" href="https://www.linkedin.com/in/manojkumar-s-77569b20b/">
+<a target="_blank" href="">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" fill="#FFFFFF" />
 </a>
-<a target="_blank" href="https://www.instagram.com/manoj__sankar/">
+<a target="_blank" href="">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="mailto:manojmk2910@gmail.com">
+<a target="_blank" href="mailto:19tuit047@skct.edu.in">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br/>
@@ -37,4 +37,3 @@
 <br />
 <br />
 
-[portfolio]: https://manojmkdev.github.io
