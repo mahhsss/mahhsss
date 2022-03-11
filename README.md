@@ -2,10 +2,9 @@
 <hr />
 
 
-- 🌱 
-- 📟
-- ⚙️
-
+- 🌱 I’m an engineering undergraduate who holds some technical knowledge with some perseverance to improve towards my interests and in updating myself towards forthcoming technologies.
+- 📟 I enjoy making websites that are appealing to the users eye as well as meeting their needs. 
+- ⚙️ I hold my strengths towards full stack development and designing UI/UX 
 
 
 
