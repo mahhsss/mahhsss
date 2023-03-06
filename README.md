@@ -12,7 +12,7 @@
 
 ### Social Media :
 <hr/>
-<a target="_blank" href="">
+<a target="_blank" href="https://www.linkedin.com/in/j-mahesh-9b61311b2/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" fill="#FFFFFF" />
 </a>
 <a target="_blank" href="https://www.instagram.com/__mahhss__/">
